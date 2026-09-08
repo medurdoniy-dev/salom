@@ -1,4 +1,4 @@
-a=int (input ("nom kiriting :"))
+a=(input ("nom kiriting :"))
 if a == "yes" :
     print ("yes 👍")
 if a == "no":
